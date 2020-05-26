@@ -1,2 +1,0 @@
-# yolo-fc
-Yolo FC
