@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name ultimateFC)(type KiCad)(uri ${KIPRJMOD}/ultimateFC.pretty)(options "")(descr ""))
+  (lib (name 03_GNSS_Mag)(type KiCad)(uri /home/christoph/ext1TB/projekte/37_RC/kicad/03_GNSS_Mag/libs/03_GNSS_Mag.pretty)(options "")(descr "")(disabled))
+  (lib (name ZOE-M8Q)(type KiCad)(uri /home/christoph/ext1TB/projekte/37_RC/kicad/03_GNSS_Mag/libs/ZOE-M8Q.pretty)(options "")(descr "")(disabled))
+  (lib (name Molex-734120110_u)(type KiCad)(uri /home/christoph/ext1TB/projekte/37_RC/kicad/03_GNSS_Mag/libs/Molex-734120110_u.Fl)(options "")(descr "")(disabled))
+  (lib (name 734120110)(type Legacy)(uri /home/christoph/ext1TB/projekte/37_RC/kicad/03_GNSS_Mag/libs/Molex-734120110_u.Fl/734120110.mod)(options "")(descr "")(disabled))
+)

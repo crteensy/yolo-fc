@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name lib_ultimateFC)(type Legacy)(uri ${KIPRJMOD}/lib_ultimateFC.lib)(options "")(descr ""))
+  (lib (name ultimateFC-rescue)(type Legacy)(uri ${KIPRJMOD}/ultimateFC-rescue.lib)(options "")(descr ""))
+  (lib (name GNSS_Mag-cache)(type Legacy)(uri /home/christoph/ext1TB/projekte/37_RC/kicad/04_GNSS_micro/04_GNSS_micro-cache.lib)(options "")(descr ""))
+)
