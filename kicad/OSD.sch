@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ultimateFC-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -17,6 +18,8 @@ $Comp
 L GNSS_Mag-cache:+3.3V #PWR0311
 U 1 1 5EE17124
 P 5300 2500
+AR Path="/5EE17124" Ref="#PWR0311"  Part="1" 
+AR Path="/5EDCB43B/5EE17124" Ref="#PWR0311"  Part="1" 
 F 0 "#PWR0311" H 5300 2350 50  0001 C CNN
 F 1 "+3.3V" H 5315 2673 50  0000 C CNN
 F 2 "" H 5300 2500 50  0001 C CNN
@@ -105,7 +108,7 @@ L Device:C_Small C48
 U 1 1 5EE2306C
 P 7150 3900
 F 0 "C48" V 7379 3900 50  0000 C CNN
-F 1 "47u" V 7288 3900 50  0000 C CNN
+F 1 "22u" V 7288 3900 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 7150 3900 50  0001 C CNN
 F 3 "~" H 7150 3900 50  0001 C CNN
 	1    7150 3900
@@ -190,4 +193,10 @@ F 3 "" H 5550 4000 50  0001 C CNN
 	1    5850 3700
 	1    0    0    -1  
 $EndComp
+Text Notes 6800 4075 0    50   ~ 0
+Changed to 22u (see video_amp.asc simulation file)
+Text Notes 6800 4175 0    50   ~ 0
+The Capacitance change due to DC bias has to be considered (simulation?)
+Text Notes 6800 4425 0    50   ~ 10
+BUT: capacitors can most probably be omitted\nsee https://www.maximintegrated.com/en/design/technical-documents/app-notes/3/3768.html
 $EndSCHEMATC
