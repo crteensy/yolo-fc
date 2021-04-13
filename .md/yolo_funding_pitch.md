@@ -1,6 +1,10 @@
 ## Please help us make the final Yolo FC prototype fly
 
-(pictures at the end of this post)
+What started out as a hobby project has brought us to end of our manual assembly capabilities, but we've gotten pretty far with our AIO:
+
+[yolo-pic]
+
+(more pictures at the end of this post)
 
 # The Yolo FC
 It's actually two AIO FCs for two different battery voltage ranges:
@@ -58,7 +62,7 @@ The prototyping run will also contain boards for:
 However, that prototyping panel will be expensive, so we are asking for financial support on [GOFUNDME LINK] to get the PCBs made and a handful of Yolos assembled profesionally; also to send them to testers and random supporters (if we have enough).
 If you want to support us, please donate.
 
-We don't have any support from the industry and all layouts will be open source.
+We don't have any support from the industry, we don't intend to make money with this and all designs will be open hardware.
 
 # Pictures
 Current Yolo prototype:
