@@ -1,4 +1,4 @@
-## Please help us make the final Yolo FC prototype fly
+# Please help us make the final Yolo FC prototype fly
 
 
 ![Manually assembled first prototype with GNSS Antenna](https://github.com/crteensy/yolo-fc/blob/master/.md/images/P1180919.JPG)
@@ -10,7 +10,7 @@ We somehow managed to assemble all functional parts of the first prototype by ha
 Please support us wit a small donation to make the Yolo finally fly!
 [GOFUNDME LINK]
 
-# The Yolo FC
+## The Specs of the YOLO AIO Flight Controller
 It's actually two AIO FCs for two different battery voltage ranges:
 - 1-3S
 - 2-6S
