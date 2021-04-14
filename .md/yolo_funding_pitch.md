@@ -57,16 +57,17 @@ The first prototype was assembled manually, on a PCB that we were able to get fo
 
 Bcause we always have some additional cool RC projects in the pipeline, the prototyping PCB run might also contain:
 - enough Yolo PCBs for a prototype batch (if it flies)
-- complex YOLO expansions like a 2in1 and a 4in1 ESC
+- complex YOLO expansions like a 2in1 and a 4in1 ESC for hexas and octos (Why no 45g AUW Hexa Whoop with GPS? Yes the more stupid it sounds, the more fun we have!:-) )
 - crteensy's experiments with Cypress PSoC6 for an AIO controller that unifies FC, 4 ESCs and the OSD on one chip (yes, memory mapped ESCs!) in two sizes:
   - whoop for manual assembly, with Bluetooth and USB
   - 16 mm, Bluetooth only
 -Maybe an H7-Yolo with AM32 ESCs 
+-Maybe an H7 1s tiny whoop board 
 - (some Express LRS prototypes)
 
 We think that for high quality PCB Panels with custom Layer Stackup and Via in Pad we need about 1500$. A professional prototype assembly of a few flight controllers and the compontens will be about 2500$. If we get more donations than we actually need and The Yolo flies, we will assemble more and send them to testers and  randomly picked donors (we need an e-mail adress in this case).
 
-We don't have any support from the industry, we don't intend to make money with this and all designs will be open hardware.
+We don't have any support from the industry, we don't intend to make money with this and all designs will be open hardware for everyone to manufacture.
 
 # Pictures
 Current Yolo prototype:
