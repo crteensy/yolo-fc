@@ -1,8 +1,7 @@
 ## Please help us make the final Yolo FC prototype fly
 
 
-
-[yolo-pic]
+![Manually assembled first prototype with GNSS Antenna](https://github.com/crteensy/yolo-fc/blob/master/.md/images/P1180919.JPG)
 
 (more pictures at the end of this post)
 
