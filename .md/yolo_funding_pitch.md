@@ -61,8 +61,8 @@ Bcause we always have some additional cool RC projects in the pipeline, the prot
 - crteensy's experiments with Cypress PSoC6 for an AIO controller that unifies FC, 4 ESCs and the OSD on one chip (yes, memory mapped ESCs!) in two sizes:
   - whoop for manual assembly, with Bluetooth and USB
   - 16 mm, Bluetooth only
--Maybe an H7-Yolo with AM32 ESCs 
--Maybe an H7 1s tiny whoop board 
+- maybe an H7-Yolo with AM32 ESCs
+- maybe an H7 1s tiny whoop board
 - (some Express LRS prototypes)
 
 We think that for high quality PCB Panels with custom Layer Stackup and Via in Pad we need about 1500$. A professional prototype assembly of a few flight controllers and the compontens will be about 2500$. If we get more donations than we actually need and The Yolo flies, we will assemble more and send them to testers and  randomly picked donors (we need an e-mail adress in this case).
