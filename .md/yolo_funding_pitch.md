@@ -2,15 +2,16 @@
 
 
 ![Manually assembled first prototype with GNSS Antenna](https://github.com/crteensy/yolo-fc/blob/master/.md/images/title.jpg)
+First partly by hand assembled prototype of the Yolo. More images at the end of the site.
 
-(more pictures at the end of this post)
 
+## The YOLO AIO Flight Controller
 The Yolo FC is an 20mm 25A F7 all-in-one flight controller. Initially, it was taylored to fullfill the needs of flight time record-breaking quads, but due to our urge to integrate more and more features made became the most versatile flight controller we can imagine. 
 We somehow managed to assemble all functional parts of the first prototype by hand(!) in order to verify their function. For the next step, a second Prototype, we've come to an end of our manual assembly capabilities as well as our financial budget for PCBs and electronic parts. We see electronics design as part of our RC hobby and we don't intend to make any money with this, but our financial capacity is therefore also limited.
 Please support us wit a small donation to make the Yolo finally fly!
 [GOFUNDME LINK]
 
-## The Specs of the YOLO AIO Flight Controller
+## The Specs 
 It's actually two AIO FCs for two different battery voltage ranges:
 - 1-3S
 - 2-6S
