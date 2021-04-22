@@ -1,13 +1,12 @@
 EESchema Schematic File Version 4
-LIBS:ultimateFC-cache
 EELAYER 30 0
 EELAYER END
 $Descr User 31496 16535
 encoding utf-8
 Sheet 1 1
 Title "ESCs and Power"
-Date "2020-05-26"
-Rev "0"
+Date "2021-04-22"
+Rev "1"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -750,17 +749,17 @@ Text GLabel 10750 2425 0    50   Input ~ 0
 ESC2_RX
 Text GLabel 11050 2325 0    50   Input ~ 0
 ESC_2_TX
-Text GLabel 12450 1825 2    50   Input ~ 0
-Ap_ESC_2
 Text GLabel 12450 1925 2    50   Input ~ 0
+Ap_ESC_2
+Text GLabel 12450 1825 2    50   Input ~ 0
 Ac_ESC_2
-Text GLabel 12450 2125 2    50   Input ~ 0
-Bp_ESC_2
 Text GLabel 12450 2025 2    50   Input ~ 0
+Bp_ESC_2
+Text GLabel 12450 2125 2    50   Input ~ 0
 Bc_ESC_2
-Text GLabel 12450 2225 2    50   Input ~ 0
-Cp_ESC_2
 Text GLabel 12450 2325 2    50   Input ~ 0
+Cp_ESC_2
+Text GLabel 12450 2225 2    50   Input ~ 0
 Cc_ESC_2
 NoConn ~ 12450 2425
 Text GLabel 11050 1925 0    50   Input ~ 0
@@ -777,13 +776,13 @@ Text GLabel 12450 2525 2    50   Input ~ 0
 ESC_2_C2D
 NoConn ~ 11050 2525
 NoConn ~ 11050 2625
-Text GLabel 15650 1875 0    50   Input ~ 0
+Text GLabel 15650 1775 0    50   Input ~ 0
 Ac_ESC_2
-Text GLabel 15675 2075 0    50   Input ~ 0
+Text GLabel 15675 1975 0    50   Input ~ 0
 Bp_ESC_2
-Text GLabel 14700 4025 0    50   Input ~ 0
-Cp_ESC_2
 Text GLabel 14700 4125 0    50   Input ~ 0
+Cp_ESC_2
+Text GLabel 14700 4025 0    50   Input ~ 0
 Cc_ESC_2
 $Comp
 L lib_ultimateFC:NCP81253MNTBG U3
@@ -1245,7 +1244,7 @@ Wire Wire Line
 	12500 4525 12650 4525
 Wire Wire Line
 	16800 4450 16950 4450
-Text GLabel 15650 1775 0    50   Input ~ 0
+Text GLabel 15650 1875 0    50   Input ~ 0
 Ap_ESC_2
 Wire Wire Line
 	17600 4350 18025 4350
@@ -1475,7 +1474,7 @@ Text GLabel 11050 4600 0    50   Input ~ 0
 LS_2_B
 Text GLabel 16125 2225 3    50   Input ~ 0
 LS_2_B
-Text GLabel 15675 1975 0    50   Input ~ 0
+Text GLabel 15675 2075 0    50   Input ~ 0
 Bc_ESC_2
 $Comp
 L Connector_Generic:Conn_02x05_Counter_Clockwise J5
@@ -1651,17 +1650,17 @@ Text GLabel 1475 2425 0    50   Input ~ 0
 ESC1_RX
 Text GLabel 1775 2325 0    50   Input ~ 0
 ESC_1_TX
-Text GLabel 3175 1825 2    50   Input ~ 0
-Ap_ESC_1
 Text GLabel 3175 1925 2    50   Input ~ 0
+Ap_ESC_1
+Text GLabel 3175 1825 2    50   Input ~ 0
 Ac_ESC_1
-Text GLabel 3175 2125 2    50   Input ~ 0
-Bp_ESC_1
 Text GLabel 3175 2025 2    50   Input ~ 0
+Bp_ESC_1
+Text GLabel 3175 2125 2    50   Input ~ 0
 Bc_ESC_1
-Text GLabel 3175 2225 2    50   Input ~ 0
-Cp_ESC_1
 Text GLabel 3175 2325 2    50   Input ~ 0
+Cp_ESC_1
+Text GLabel 3175 2225 2    50   Input ~ 0
 Cc_ESC_1
 NoConn ~ 3175 2425
 Text GLabel 1775 1925 0    50   Input ~ 0
@@ -1678,13 +1677,13 @@ Text GLabel 3175 2525 2    50   Input ~ 0
 ESC_1_C2D
 NoConn ~ 1775 2525
 NoConn ~ 1775 2625
-Text GLabel 6375 1875 0    50   Input ~ 0
+Text GLabel 6375 1775 0    50   Input ~ 0
 Ac_ESC_1
-Text GLabel 6400 2075 0    50   Input ~ 0
+Text GLabel 6400 1975 0    50   Input ~ 0
 Bp_ESC_1
-Text GLabel 5425 4025 0    50   Input ~ 0
-Cp_ESC_1
 Text GLabel 5425 4125 0    50   Input ~ 0
+Cp_ESC_1
+Text GLabel 5425 4025 0    50   Input ~ 0
 Cc_ESC_1
 $Comp
 L power:GND #PWR0106
@@ -2131,7 +2130,7 @@ Wire Wire Line
 	3225 4525 3375 4525
 Wire Wire Line
 	7525 4450 7675 4450
-Text GLabel 6375 1775 0    50   Input ~ 0
+Text GLabel 6375 1875 0    50   Input ~ 0
 Ap_ESC_1
 Wire Wire Line
 	8325 4350 8750 4350
@@ -2361,7 +2360,7 @@ Text GLabel 1775 4600 0    50   Input ~ 0
 LS_1_B
 Text GLabel 6850 2225 3    50   Input ~ 0
 LS_1_B
-Text GLabel 6400 1975 0    50   Input ~ 0
+Text GLabel 6400 2075 0    50   Input ~ 0
 Bc_ESC_1
 Wire Wire Line
 	5200 2525 5200 2575
@@ -2448,17 +2447,17 @@ Text GLabel 2425 8225 2    50   Input ~ 0
 ESC3_RX
 Text GLabel 1800 7275 0    50   Input ~ 0
 ESC_3_TX
-Text GLabel 3200 6775 2    50   Input ~ 0
-Ap_ESC_3
 Text GLabel 3200 6875 2    50   Input ~ 0
+Ap_ESC_3
+Text GLabel 3200 6775 2    50   Input ~ 0
 Ac_ESC_3
-Text GLabel 3200 7075 2    50   Input ~ 0
-Bp_ESC_3
 Text GLabel 3200 6975 2    50   Input ~ 0
+Bp_ESC_3
+Text GLabel 3200 7075 2    50   Input ~ 0
 Bc_ESC_3
-Text GLabel 3200 7175 2    50   Input ~ 0
-Cp_ESC_3
 Text GLabel 3200 7275 2    50   Input ~ 0
+Cp_ESC_3
+Text GLabel 3200 7175 2    50   Input ~ 0
 Cc_ESC_3
 NoConn ~ 3200 7375
 Text GLabel 1800 6875 0    50   Input ~ 0
@@ -2475,13 +2474,13 @@ Text GLabel 3200 7475 2    50   Input ~ 0
 ESC_3_C2D
 NoConn ~ 1800 7475
 NoConn ~ 1800 7575
-Text GLabel 6400 6825 0    50   Input ~ 0
+Text GLabel 6400 6725 0    50   Input ~ 0
 Ac_ESC_3
-Text GLabel 6425 7025 0    50   Input ~ 0
+Text GLabel 6425 6925 0    50   Input ~ 0
 Bp_ESC_3
-Text GLabel 5450 8975 0    50   Input ~ 0
-Cp_ESC_3
 Text GLabel 5450 9075 0    50   Input ~ 0
+Cp_ESC_3
+Text GLabel 5450 8975 0    50   Input ~ 0
 Cc_ESC_3
 $Comp
 L lib_ultimateFC:NCP81253MNTBG U19
@@ -2941,7 +2940,7 @@ Wire Wire Line
 	3250 9475 3400 9475
 Wire Wire Line
 	7550 9400 7700 9400
-Text GLabel 6400 6725 0    50   Input ~ 0
+Text GLabel 6400 6825 0    50   Input ~ 0
 Ap_ESC_3
 Wire Wire Line
 	8350 9300 8775 9300
@@ -3171,7 +3170,7 @@ Text GLabel 1800 9550 0    50   Input ~ 0
 LS_3_B
 Text GLabel 6875 7175 3    50   Input ~ 0
 LS_3_B
-Text GLabel 6425 6925 0    50   Input ~ 0
+Text GLabel 6425 7025 0    50   Input ~ 0
 Bc_ESC_3
 Wire Wire Line
 	5225 7475 5225 7525
@@ -3256,17 +3255,17 @@ Text GLabel 10750 7375 0    50   Input ~ 0
 ESC4_RX
 Text GLabel 11050 7275 0    50   Input ~ 0
 ESC_4_TX
-Text GLabel 12450 6775 2    50   Input ~ 0
-Ap_ESC_4
 Text GLabel 12450 6875 2    50   Input ~ 0
+Ap_ESC_4
+Text GLabel 12450 6775 2    50   Input ~ 0
 Ac_ESC_4
-Text GLabel 12450 7075 2    50   Input ~ 0
-Bp_ESC_4
 Text GLabel 12450 6975 2    50   Input ~ 0
+Bp_ESC_4
+Text GLabel 12450 7075 2    50   Input ~ 0
 Bc_ESC_4
-Text GLabel 12450 7175 2    50   Input ~ 0
-Cp_ESC_4
 Text GLabel 12450 7275 2    50   Input ~ 0
+Cp_ESC_4
+Text GLabel 12450 7175 2    50   Input ~ 0
 Cc_ESC_4
 NoConn ~ 12450 7375
 Text GLabel 11050 6875 0    50   Input ~ 0
@@ -3283,13 +3282,13 @@ Text GLabel 12450 7475 2    50   Input ~ 0
 ESC_4_C2D
 NoConn ~ 11050 7475
 NoConn ~ 11050 7575
-Text GLabel 15650 6825 0    50   Input ~ 0
+Text GLabel 15650 6725 0    50   Input ~ 0
 Ac_ESC_4
-Text GLabel 15675 7025 0    50   Input ~ 0
+Text GLabel 15675 6925 0    50   Input ~ 0
 Bp_ESC_4
-Text GLabel 14700 8975 0    50   Input ~ 0
-Cp_ESC_4
 Text GLabel 14700 9075 0    50   Input ~ 0
+Cp_ESC_4
+Text GLabel 14700 8975 0    50   Input ~ 0
 Cc_ESC_4
 $Comp
 L lib_ultimateFC:NCP81253MNTBG U28
@@ -3734,7 +3733,7 @@ Wire Wire Line
 	12500 9475 12650 9475
 Wire Wire Line
 	16800 9400 16950 9400
-Text GLabel 15650 6725 0    50   Input ~ 0
+Text GLabel 15650 6825 0    50   Input ~ 0
 Ap_ESC_4
 Wire Wire Line
 	17600 9300 18025 9300
@@ -3960,7 +3959,7 @@ Text GLabel 11050 9550 0    50   Input ~ 0
 LS_4_B
 Text GLabel 16125 7175 3    50   Input ~ 0
 LS_4_B
-Text GLabel 15675 6925 0    50   Input ~ 0
+Text GLabel 15675 7025 0    50   Input ~ 0
 Bc_ESC_4
 Wire Wire Line
 	14475 7475 14475 7525
@@ -5872,7 +5871,7 @@ Wire Wire Line
 Wire Wire Line
 	25750 1175 25850 1175
 $Comp
-L Connector:USB_B_Micro J?
+L ultimateFC-rescue:USB_B_Micro-Connector J?
 U 1 1 5F57339B
 P 27000 2425
 AR Path="/5ED1D96B/5F57339B" Ref="J?"  Part="1" 
@@ -9801,4 +9800,6 @@ Wire Wire Line
 	10300 14750 10300 14775
 Wire Wire Line
 	10300 14775 10000 14775
+Text Notes 26325 10600 0    150  ~ 0
+public files:\nhttps://github.com/crteensy/Yolo-files
 $EndSCHEMATC
