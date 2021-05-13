@@ -9813,6 +9813,12 @@ Wire Notes Line width 16 style solid rgb(0, 0, 4)
 	20875 8600 20875 10250
 Text Notes 21000 10075 0    157  ~ 0
 If you want to (commercially) manufacture this, we strongly \nrecommend to contact us before   ->   yolofc@weber-ee.de 
+Wire Wire Line
+	1450 13675 1450 13775
+Wire Wire Line
+	1450 14075 1450 14200
+Wire Wire Line
+	1450 14200 1475 14200
 $Comp
 L Device:D_Schottky D?
 U 1 1 60AD2E6E
@@ -9830,10 +9836,6 @@ F 7 "" H 1450 13925 50  0001 C CNN "price@1k[€]"
 	1    1450 13925
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	1450 13675 1450 13775
-Wire Wire Line
-	1450 14075 1450 14200
-Wire Wire Line
-	1450 14200 1475 14200
+Text Notes 1575 13975 0    50   ~ 0
+PMEG1030EJ,115 lower dropout\nalternative for 3A
 $EndSCHEMATC
