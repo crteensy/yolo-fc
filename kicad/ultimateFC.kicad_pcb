@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.2)
-    (drawings 529)
+    (drawings 528)
     (tracks 3920)
     (zones 0)
     (modules 194)
@@ -1002,6 +1002,11 @@
       (net 3 +3V3))
     (pad 2 smd rect (at 0.6 0.25 90) (size 0.5 0.3) (layers F.Cu F.Paste F.Mask)
       (net 1 GND))
+    (model C:/Users/Christian/Desktop/Elektronik/yolo_fc/yolo-fc/kicad/3D/idc.stp
+      (offset (xyz 0.1 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module ultimateFC:C_AVX_Super_Low_ESL (layer F.Cu) (tedit 5FB7BFB3) (tstamp 5ECC636B)
@@ -1042,6 +1047,11 @@
       (net 2 +5V))
     (pad 2 smd rect (at 0.6 0.25 90) (size 0.5 0.3) (layers F.Cu F.Paste F.Mask)
       (net 1 GND))
+    (model C:/Users/Christian/Desktop/Elektronik/yolo_fc/yolo-fc/kicad/3D/idc.stp
+      (offset (xyz 0.1 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module ultimateFC:C_AVX_Super_Low_ESL (layer F.Cu) (tedit 5FB7BFB3) (tstamp 5ECC6354)
@@ -1082,6 +1092,11 @@
       (net 1 GND))
     (pad 2 smd rect (at 0.6 0.25 90) (size 0.5 0.3) (layers F.Cu F.Paste F.Mask)
       (net 3 +3V3))
+    (model C:/Users/Christian/Desktop/Elektronik/yolo_fc/yolo-fc/kicad/3D/idc.stp
+      (offset (xyz 0.1 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module ultimateFC:C_AVX_Super_Low_ESL (layer B.Cu) (tedit 5FB7BFB3) (tstamp 5ECC633D)
@@ -1122,6 +1137,11 @@
       (net 1 GND))
     (pad 2 smd rect (at 0.6 -0.25 270) (size 0.5 0.3) (layers B.Cu B.Paste B.Mask)
       (net 2 +5V))
+    (model C:/Users/Christian/Desktop/Elektronik/yolo_fc/yolo-fc/kicad/3D/idc.stp
+      (offset (xyz 0.1 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module ultimateFC:C_AVX_Super_Low_ESL (layer B.Cu) (tedit 5FB7BFB3) (tstamp 5EC5B70A)
@@ -1162,6 +1182,11 @@
       (net 3 +3V3))
     (pad 2 smd rect (at 0.6 -0.25 90) (size 0.5 0.3) (layers B.Cu B.Paste B.Mask)
       (net 1 GND))
+    (model ${KIPRJMOD}/3D/idc.stp
+      (offset (xyz 0.1 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module ultimateFC:C_AVX_Super_Low_ESL (layer F.Cu) (tedit 5FB7BFB3) (tstamp 5EC5B6F3)
@@ -1202,6 +1227,11 @@
       (net 2 +5V))
     (pad 2 smd rect (at 0.6 0.25 90) (size 0.5 0.3) (layers F.Cu F.Paste F.Mask)
       (net 1 GND))
+    (model C:/Users/Christian/Desktop/Elektronik/yolo_fc/yolo-fc/kicad/3D/idc.stp
+      (offset (xyz 0.1 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module ultimateFC:C_AVX_Super_Low_ESL (layer B.Cu) (tedit 5FB7BFB3) (tstamp 5EC5B6AF)
@@ -1242,6 +1272,11 @@
       (net 1 GND))
     (pad 2 smd rect (at 0.6 -0.25 90) (size 0.5 0.3) (layers B.Cu B.Paste B.Mask)
       (net 3 +3V3))
+    (model C:/Users/Christian/Desktop/Elektronik/yolo_fc/yolo-fc/kicad/3D/idc.stp
+      (offset (xyz 0.1 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module ultimateFC:C_AVX_Super_Low_ESL (layer B.Cu) (tedit 5FB7BFB3) (tstamp 5EC5B698)
@@ -1282,6 +1317,11 @@
       (net 1 GND))
     (pad 2 smd rect (at 0.6 -0.25 270) (size 0.5 0.3) (layers B.Cu B.Paste B.Mask)
       (net 2 +5V))
+    (model C:/Users/Christian/Desktop/Elektronik/yolo_fc/yolo-fc/kicad/3D/idc.stp
+      (offset (xyz 0.1 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (module ultimateFC:10132797-011100LF (layer F.Cu) (tedit 5FB7AEBA) (tstamp 5EC5B855)
@@ -1326,7 +1366,7 @@
       (net 79 MP_PIN1))
     (pad 1 smd roundrect (at 1 -1.8 180) (size 0.3 1.6) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.1)
       (net 1 GND))
-    (model ${KIPRJMOD}/10132797-011100LF.stp
+    (model ${KIPRJMOD}/3D/10132797-011100LF.stp
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1481,7 +1521,7 @@
       (net 2 +5V))
     (pad "" smd roundrect (at 2.75 0 180) (size 0.8 1.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.1))
     (pad "" smd roundrect (at -2.6 0) (size 0.55 1.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.1))
-    (model ${KIPRJMOD}/10132797-011100LF.stp
+    (model ${KIPRJMOD}/3D/10132797-011100LF.stp
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -6509,7 +6549,7 @@
       (net 1 GND) (solder_mask_margin -0.05))
     (pad 1 thru_hole circle (at -2.05 -1.5) (size 0.85 0.85) (drill 0.6) (layers *.Cu *.Mask)
       (net 1 GND) (solder_mask_margin -0.05))
-    (model ${KIPRJMOD}/10132797-011100LF.stp
+    (model ${KIPRJMOD}/3D/10132797-011100LF.stp
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -8824,7 +8864,6 @@
   (gr_circle (center 172.5 62) (end 170.4 62) (layer F.SilkS) (width 0.12))
   (gr_poly (pts (xy 183.2 67.825) (xy 181.2 67.075) (xy 183.2 66.175)) (layer B.SilkS) (width 0.1) (tstamp 5F632DD9))
   (gr_poly (pts (xy 184.75 69.5) (xy 182.75 70.25) (xy 184.75 71.15)) (layer F.SilkS) (width 0.1))
-  (gr_line (start 192.5 60.3) (end 192.5 63.7) (layer F.SilkS) (width 0.12))
   (gr_line (start 196.82 69.4) (end 197.02 69.4) (layer Edge.Cuts) (width 0.2) (tstamp 5ECBCDA9))
   (gr_line (start 197.02 69.4) (end 197.6 69.4) (layer Edge.Cuts) (width 0.2) (tstamp 5ECBCDA8))
   (gr_arc (start 196.82 70.2) (end 196.82 69.4) (angle -90) (layer Edge.Cuts) (width 0.2) (tstamp 5ECBCDA7))
