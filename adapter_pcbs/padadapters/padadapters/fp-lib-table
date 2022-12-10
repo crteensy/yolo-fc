@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name ultimateFC)(type KiCad)(uri C:/Users/Christian/Desktop/Elektronik/yolo_fc/yolo-fc/kicad/ultimateFC.pretty)(options "")(descr ""))
+  (lib (name "ultimateFC")(type "KiCad")(uri "C:/Users/Christian/Desktop/Elektronik/yolo_fc/yolo-fc/kicad/ultimateFC.pretty")(options "")(descr ""))
+  (lib (name "padadapters")(type "KiCad")(uri "${KIPRJMOD}/padadapters.pretty")(options "")(descr ""))
 )
